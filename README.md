@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### 一个在寻找人生意义的前端开发
+
+### 迷茫！
+
+2024 年会开始总结这些年工作的经验和心得，陆续开源一些觉得还不错的小组件
+
 <!--
 **keno-lee/keno-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
